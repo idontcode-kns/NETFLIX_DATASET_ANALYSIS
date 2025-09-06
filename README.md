@@ -1,5 +1,5 @@
 # NETFLIX_DATASET_ANALYSIS
-📊 Netflix Dataset Analysis (SQL)
+![netflix logo]()
 📌 Overview
 
 This project explores the Netflix dataset using SQL queries to uncover insights about movies, TV shows, ratings, genres, cast, and more.
