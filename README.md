@@ -1,5 +1,5 @@
 # NETFLIX_DATASET_ANALYSIS
-![netflix logo]()
+![netflix logo](https://github.com/idontcode-kns/NETFLIX_DATASET_ANALYSIS/blob/main/30rep_netflixdata_MAIN.webp)
 📌 Overview
 
 This project explores the Netflix dataset using SQL queries to uncover insights about movies, TV shows, ratings, genres, cast, and more.
